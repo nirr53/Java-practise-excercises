@@ -1,0 +1,33 @@
+<?xml version = "1.0"?>
+<class>
+   <student rollno = "393">
+      <firstname>dinkar</firstname>
+      <lastname>kad</lastname>
+      <nickname>dinkar</nickname>
+      <marks>85</marks>
+	  <test1>gg1</test1>
+	  <test2>gg2</test2>
+   </student>
+   
+   <student rollno = "493">
+      <firstname>Vaneet</firstname>
+      <lastname>Gupta</lastname>
+      <nickname>vinni</nickname>
+      <marks>95</marks>
+	  <test11>gg1</test11>
+	  <test21>gg2</test21>
+	  <test31>gg3</test31>
+	  <test41>gg4</test41>
+   </student>
+   
+   <student rollno = "593">
+      <firstname>jasvir</firstname>
+      <lastname>singn</lastname>
+      <nickname>jazz</nickname>
+      <marks>90</marks>
+	  <grades>
+	  	  <grades1>gg1</grades1>
+		  <grades2>gg2</grades2>
+	  </grades>
+   </student>
+</class>
